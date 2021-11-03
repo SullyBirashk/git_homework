@@ -7,3 +7,5 @@
 "Another strategy I plan on committing to would be getting as much practice as I need, that way I have a full understanding before I move on"
 
 "Shoutout to Mama Abdulla for helping me get my understanding in coding to where it is today!!!!"
+
+"In class string to test git push"
